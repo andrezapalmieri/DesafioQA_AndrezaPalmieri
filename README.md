@@ -11,10 +11,11 @@
       - Selecione Import existing projects;
       - Clique em Finish
 3. Adicionar bibliotecas do Selenium:
+      - Salvar a pasta selenium (do repositório git) para uma diretório local;
       - Clicar com botão direito em Projeto >> Proprieties;
-      - selecionar a aba Libraries;
+      - Selecionar a aba Libraries;
       - Clicar em Add External Jars..;
-      - Dentro da pasta selenium (do repositório git), selecionar o arquivo client-combined-3.4.0-nodeps.jar e todos os arquivos da pasta lib.
+      - Dentro da pasta selenium, selecionar o arquivo client-combined-3.4.0-nodeps.jar e todos os arquivos da pasta lib.
 4. Abrir o package Testes;
 5. Executar CasoDeTesteExtra: 
       botão direito: Run As >> JUnit Test.  
