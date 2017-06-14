@@ -2,7 +2,7 @@
 
 1. Instalar: Eclipse IDE e java
 2. Clonar o projeto a partir do github (ou baixar os arquivos e importar a partir de um diretório local):
-      - Copie a URL do projeto hospedado no GitHub: 
+      - Copie a URL do projeto hospedado no GitHub: https://github.com/andrezapalmieri/DesafioQA_AndrezaPalmieri.git
       - No Eclipse, acesse o menu “File” > “Import…” e escolha a opção “Projects from Git”;
       - Escolha a opção URI e clique em “Next >”;
       - Preencher o campo URI com a URL do github;
